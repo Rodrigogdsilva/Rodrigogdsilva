@@ -4,8 +4,7 @@
 
 <br>
 
-- 🔭 Trabalho atualmente com Java/Spring/JPA/Hibernate
-- 🌱 Cursando ADS
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas pela FATEC.
 
 <br>
 <div align="center">
