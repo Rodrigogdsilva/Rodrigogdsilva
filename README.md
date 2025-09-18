@@ -24,12 +24,14 @@ Sou um desenvolvedor de software com mais de 4 anos de experiência no mercado f
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+<!--
 📊 Minhas Estatísticas no GitHub
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodrigogdsilva&show_icons=true&theme=dracula&rank_icon=github&count_private=true" alt="Estatísticas do GitHub de Rodrigo" />
 <br/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogdsilva&layout=compact&theme=dracula" alt="Top Linguagens de Rodrigo" />
 </p>
+-->
 
 📫 Como me Encontrar
 <p align="left">
